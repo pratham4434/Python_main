@@ -1,3 +1,5 @@
+message = "Hello World"
+
 # to escape the character ('), we can use a backslash right before it
 message2 = 'Yash\'s world!'
 
