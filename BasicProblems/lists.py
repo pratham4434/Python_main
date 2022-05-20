@@ -3,7 +3,7 @@ courses_2 = ["Art", "Education"]
 
 print(courses)
 print(len(courses))     # length of the array
-print(courses[0])       # first item
+print(courses[0])       # first item of the array
 print(courses[-1])      # starts frm the end of the list
 print(courses[0 : 2])   # all the way upto bt not including the last one
 
